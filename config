@@ -1,0 +1,11 @@
+#This the config file for the list program thing
+#The '#' char denotes a comment and the program will skip lines that start with '#'
+#The order of data is important
+#1. Full directory path
+#2. Name of the default text file
+
+#Default directory
+./
+
+#Default file
+Default.txt
